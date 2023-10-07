@@ -1,0 +1,75 @@
+body{
+    border:5px solid black;
+    margin:10px;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    padding-top:50px;
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:25px;
+   font-size: 50px;
+    
+}
+h2{
+   padding: 50px 50px 25px 50px;
+    text-align:center;
+    margin:0px;
+    padding-top:0px;
+    font-size: 35px;
+}
+.box{
+    border:5px solid black;
+    padding:30px;
+    margin : 50px;
+    display:flex;
+    background-color: chocolate;
+   
+    
+    
+}
+.image_box{
+    border:5px solid black;
+    padding:50px;
+   
+    margin-top:30px;
+    margin-left:30px;
+    margin-bottom:30px;
+    background-color:aqua ;
+    
+}
+img{
+    border-radius:50%;
+    border:5px solid black;
+    width:250px;
+    height:250px;
+
+}
+.text{
+    margin-left:20px;
+   
+}
+.table{
+    margin-top:30px;
+    margin-left:30px;
+    font-size:30px;
+
+}
+tr,td{
+    padding:15px;
+    
+}
+#cancel{
+    font-size: 30px;
+    border: 5px solid black;
+    background-color: lightgray;
+}
+#submit{
+    font-size: 25px;
+    border:5px solid black;
+    background-color: lightgray;
+}
+#attende, #name, #number,#email, #seat{
+    border:5px solid black;
+}
